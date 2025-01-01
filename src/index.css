@@ -15,7 +15,38 @@ code {
   margin-left: 40px;
 }
 
-   a {
+a {
   text-decoration: none;
-  color: black;
+} 
+
+#supportHero{
+  background-color:#4CC9FE;
+  color: white;
+  
+
+
 }
+
+#supportHero a{
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content:space-between;
+  margin-left: 100px;
+  margin-right: 130px;
+
+
+}
+
+#supportHero input{
+  padding:12px 35px ;
+  width: 100%;
+}
+
+#supportPEN{
+  margin-left: 100px;
+  row-gap: 10px;
+}
+
